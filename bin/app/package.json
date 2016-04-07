@@ -1,0 +1,6 @@
+{
+  "name": "swaniti-firebase",
+  "dependencies": {
+    "firebase": ">=0.6.3"
+  }
+}

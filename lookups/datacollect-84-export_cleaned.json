@@ -1,0 +1,263 @@
+{
+  "anomaly_link" : "Blank",
+  "flag" : false,
+  "question" : {
+    "0" : "jayanta mahuri",
+    "1" : "9583844197",
+    "3" : "",
+    "4" : [ "Baliapal Block", "Bishnupur", "Nayabali" ],
+    "5" : "Jayanta mahuri",
+    "6" : "9583844197",
+    "7" : "Self",
+    "9" : "Casual Labour: Agriculture",
+    "10" : "Hindu",
+    "11" : "SC",
+    "12" : "Oriya",
+    "13" : "Yes",
+    "14" : "Food Security Card - AAY",
+    "15" : "Yes",
+    "16" : "0",
+    "17" : "35",
+    "18" : "5",
+    "19" : {
+      "0" : true,
+      "12" : true
+    },
+    "21" : "5",
+    "22" : [ "Jayanta mahuri", "Anjali mahuri", "CHANDAN MAHURI", "Rita mahuri", "Bandan mahuri" ],
+    "23" : [ "Self", "Husband/Wife", "Unmarried Son/Daughter", "Unmarried Son/Daughter", "Unmarried Son/Daughter" ],
+    "24" : [ "Male", "Female", "Male", "Female", "Male" ],
+    "25" : [ "57", "48", "14", "17", "10" ],
+    "26" : [ "Group 4 - 18 to 59 years", "Group 4 - 18 to 59 years", "Group 2 - 6 to 14 years", "Group 3 - 14 to 18 years", "Group 2 - 6 to 14 years" ],
+    "45" : {
+      "2" : [ true ],
+      "4" : [ true ]
+    },
+    "46" : {
+      "2" : "558550637816",
+      "4" : "897895470367"
+    },
+    "47" : {
+      "2" : "Yes",
+      "4" : "No"
+    },
+    "48" : {
+      "2" : "No"
+    },
+    "49" : {
+      "2" : "100"
+    },
+    "50" : {
+      "2" : {
+        "5" : true
+      },
+      "4" : true
+    },
+    "52" : {
+      "2" : true,
+      "4" : true
+    },
+    "53" : {
+      "2" : "Middle VI-VIII",
+      "4" : "Primary I-V"
+    },
+    "54" : {
+      "2" : "Yes",
+      "4" : "Yes"
+    },
+    "55" : {
+      "2" : "Secondary School",
+      "4" : "Primary School"
+    },
+    "58" : {
+      "2" : "No",
+      "4" : "No"
+    },
+    "59" : {
+      "2" : "Yes",
+      "4" : "Yes"
+    },
+    "60" : {
+      "2" : "Yes",
+      "4" : "Yes"
+    },
+    "61" : {
+      "2" : "Yes",
+      "4" : "Yes"
+    },
+    "62" : {
+      "2" : {
+        "7" : true
+      },
+      "4" : {
+        "5" : true
+      }
+    },
+    "63" : {
+      "2" : "Yes",
+      "4" : "Yes"
+    },
+    "64" : {
+      "2" : "10000",
+      "4" : "10000"
+    },
+    "65" : {
+      "2" : "YesOnceTwice",
+      "4" : "Yesalot"
+    },
+    "66" : {
+      "2" : "Yes",
+      "4" : "No"
+    },
+    "67" : {
+      "2" : [ null, true ]
+    },
+    "68" : {
+      "3" : "Unmarried"
+    },
+    "69" : {
+      "3" : [ true ]
+    },
+    "70" : {
+      "3" : "808811252806"
+    },
+    "74" : {
+      "3" : "No"
+    },
+    "77" : {
+      "3" : true
+    },
+    "79" : {
+      "3" : true
+    },
+    "80" : {
+      "3" : "Secondary IX-X"
+    },
+    "82" : {
+      "3" : "No"
+    },
+    "84" : {
+      "3" : "Financial reasons"
+    },
+    "85" : {
+      "3" : "16"
+    },
+    "87" : {
+      "3" : "No"
+    },
+    "88" : {
+      "3" : "No"
+    },
+    "89" : {
+      "3" : "No"
+    },
+    "93" : {
+      "3" : "YesOnceTwice"
+    },
+    "94" : {
+      "3" : "No"
+    },
+    "96" : {
+      "3" : true
+    },
+    "97" : {
+      "3" : "Out of work but currently not looking for work"
+    },
+    "98" : {
+      "3" : "No"
+    },
+    "102" : [ "Married", "Married" ],
+    "103" : [ [ true, true, null, true ], [ true, true ] ],
+    "104" : [ "256894887885", "252342837707" ],
+    "105" : [ "No" ],
+    "106" : [ "No" ],
+    "108" : [ "Yes", "Yes" ],
+    "109" : [ "Yes", "Yes" ],
+    "110" : [ "500", "100" ],
+    "111" : [ true, true ],
+    "113" : [ true, true ],
+    "114" : [ "Not literate", "Not literate" ],
+    "116" : [ "No", "No" ],
+    "118" : [ "Financial reasons", "Financial reasons" ],
+    "121" : [ "No", "No" ],
+    "122" : [ "No", "No" ],
+    "123" : [ "Skilled wage workers", "Housewife" ],
+    "124" : [ "No", "No" ],
+    "128" : [ "No", "Yes" ],
+    "129" : [ null, {
+      "8" : true
+    } ],
+    "130" : [ null, "Yes" ],
+    "131" : [ null, "15000" ],
+    "132" : [ "YesOnceTwice", "Yesalot" ],
+    "133" : [ "No", "No" ],
+    "135" : [ [ null, true ], [ null, true ] ],
+    "170" : "No",
+    "173" : "Private doctor",
+    "174" : [ null, true ],
+    "176" : "More than 500",
+    "177" : "No",
+    "182" : "No",
+    "183" : "No",
+    "186" : "Own",
+    "187" : "1",
+    "188" : "Pucca",
+    "189" : "Outside",
+    "190" : "No",
+    "191" : "Yes",
+    "192" : "No",
+    "193" : {
+      "5" : true
+    },
+    "194" : "200",
+    "195" : "No",
+    "198" : "Open defecation",
+    "199" : "None",
+    "200" : "Throwing outside",
+    "201" : "None",
+    "203" : {
+      "4" : true
+    },
+    "204" : "Yes",
+    "205" : "Yes-Net",
+    "206" : {
+      "0" : false,
+      "7" : true
+    },
+    "207" : "Yes",
+    "208" : "Electricity",
+    "210" : "Wood",
+    "211" : "No",
+    "216" : "No",
+    "261" : "Yes",
+    "262" : {
+      "2" : true
+    },
+    "265" : "1",
+    "274" : "Kuccha",
+    "275" : "0",
+    "276" : "Yes",
+    "277" : "2",
+    "278" : [ "80000", "20000" ],
+    "279" : [ "Others", "Others" ],
+    "280" : [ "Provident Fund", "Provident Fund" ],
+    "281" : [ "4", "4" ],
+    "282" : [ "No", "No" ],
+    "283" : "100000",
+    "284" : {
+      "3" : true,
+      "9" : true,
+      "20" : true
+    },
+    "285" : "12,001 - 60,000",
+    "286" : "2,501 - 5,000",
+    "287" : "6,001-12,000",
+    "288" : true,
+    "289" : "0"
+  },
+  "surveyName" : "Survey_11_1623_812016",
+  "surveyNo" : 84,
+  "surveyType" : "Household",
+  "surveyVal" : "Synced",
+  "updatedTime" : "2016-02-08T15:56:37.316Z"
+}
