@@ -12,7 +12,6 @@ var CollectionObserver = function(path, child) {
   this.listeners = {};
   this.handler = null;
   this.child = child;
-  this.auth = 'EtB6roR9HkBls1eI6C00oiIOPM8FDZgf476Zvnsx';
   // Private methods
 
   /*
