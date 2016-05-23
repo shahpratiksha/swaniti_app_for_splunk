@@ -1,9 +1,0 @@
-{
-  "aditi" : "baxi",
-  "field1" : "val1",
-  "paritosh" : "shah",
-  "pratiksha" : "shah",
-  "preeti" : "shah",
-  "santosh" : "shah",
-  "waddup" : "bro"
-}
